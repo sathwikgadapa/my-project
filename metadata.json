@@ -1,0 +1,5 @@
+{
+  "name": "Annapurna - Food Rescue",
+  "description": "A food redistribution platform connecting restaurants with excess food to NGOs and needy organizations via a network of delivery riders.",
+  "requestFramePermissions": ["geolocation"]
+}
